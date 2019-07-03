@@ -1,0 +1,16 @@
+{
+    "name": "cevin/snowflake",
+    "description": "Snowflake php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cevin",
+            "email": "cevin.cheung@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Cevin\\Snowflake\\": "src"
+        }
+    }
+}
